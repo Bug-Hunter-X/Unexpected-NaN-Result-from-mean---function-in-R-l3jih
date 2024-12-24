@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming involving the `mean()` function and how to handle missing values (`NA`) to avoid unexpected `NaN` results. The `bug.R` file shows the error, and `bugSolution.R` provides the corrected code.
